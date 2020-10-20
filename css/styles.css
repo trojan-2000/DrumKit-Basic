@@ -1,0 +1,50 @@
+body{
+	text-align: center;
+}
+.w{
+	position: absolute;
+	top: 110px;
+	left:300px;
+}
+.s{
+
+	position: absolute;
+	top:250px;
+	left:550px;
+}
+.d{
+
+	position: absolute;
+	top:500px;
+	left:50%;
+}
+.a{
+
+	position: absolute;
+	left:275px;
+	top: 350px;
+}
+.j{
+
+	position: absolute;
+	top:250px;
+	right:500px;
+}
+.k{
+
+	position: absolute;
+	top:300px;
+	right:400px;
+}
+.l{
+
+	position: absolute;
+	right:250px;
+	top:250px;
+}
+img{
+	height: 600px;
+}
+button{
+	border: solid black 1px;
+}
